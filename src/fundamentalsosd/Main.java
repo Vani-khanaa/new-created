@@ -15,7 +15,8 @@ public class Main {
             s1.setName("Vani");
             s1.setAge(18);
             s2.setName("Aarti");
-            s2.setAge(28);
+            
+            s2.setAge(46);
              s3.setName("Ananya");
             s3.setAge(8);
             list[0] = s1;
