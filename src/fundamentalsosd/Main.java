@@ -1,7 +1,7 @@
 
 package fundamentalsosd;
 
-
+//VANI MADE CHANGES.......
 public class Main {
 
     public static void main(String[] args) 
@@ -26,6 +26,8 @@ public class Main {
         {
             System.out.println(list[i].getName() + "\n"+list[i].getAge());
             // new changes---------------
+            
+            
         }
     }
 }
