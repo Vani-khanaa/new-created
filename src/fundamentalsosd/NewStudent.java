@@ -38,6 +38,7 @@ public class NewStudent
      */
     public void setAge(int age) {
         this.age = age;
+       
     }
 
     void setAge(String string) {
@@ -45,3 +46,4 @@ public class NewStudent
     }
     
 }
+//-----------------pull----------------------------------------
