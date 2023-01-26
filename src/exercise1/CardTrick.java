@@ -69,7 +69,7 @@ for(Card pickedcard:hand)
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Vani, but you can call me prof, Vani or sir");
+        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
         System.out.println();
         
         System.out.println("My career ambitions:");
@@ -78,8 +78,8 @@ for(Card pickedcard:hand)
 	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Reading Books");
-        System.out.println("-- Dancing");
+        System.out.println("-- Creativity");
+        System.out.println("-- thinking");
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my car");
 
