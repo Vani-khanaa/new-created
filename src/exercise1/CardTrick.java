@@ -81,7 +81,7 @@ for(Card pickedcard:hand)
         System.out.println("-- Reading Books");
         System.out.println("-- Dancing");
         System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my Car");
+        System.out.println("-- Riding my car");
 
         System.out.println();
         
